@@ -1,4 +1,4 @@
-## yryrbot
+## Yare Yare Novan
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -51,7 +51,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* git clone https://github.com/YareYareBot/yryrbot
+* Novan Kun
 
 ## DONASI
 * WhatsApp : 089504242949 Novan
